@@ -1,0 +1,10 @@
+fd0111-admin
+fd8301-co-admin
+fdf401-webmaster
+00ff00-leader
+00ffa2-co-leader
+007eff-member
+0006ff-trialmember
+9c00ff-freunde
+ffffff-user
+b0afb1-gast

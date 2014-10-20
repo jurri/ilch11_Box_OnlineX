@@ -1,0 +1,28 @@
+Beschreibung für die Onlinebox
+-------------------------------
+
+Die Rangnamen/Postennamen ändert ihr direkt in der php-Datei!
+
+Ebenso die dazugehörigen Farbcodes,so wie ihr es möchtet!
+
+Den Farbcode für den Text in der Box bzw.Überschrift darin passt ihr auch in der php selbst an!
+
+Sollte alles selbsterklärend sein!
+
+Die Icons müssen in folgenden Pfad geladen werden:
+
+include/images/onlineboxicons
+
+Der Pfad "onlineboxicons" ist nicht original und muss erstellt werden im FTP!
+
+Wichtig: Größe 16x16 Pixel und Format PNG!
+
+Die Icons liegen bei,auch die PSD,also könnt ihr euch die Icons ebenso dazu anpassen.
+
+Bei Problemen kontaktiert uns,wir helfen euch dabei!
+
+Die Box wurde upgadetet und zeigt keine Darstellungsfehler mehr!
+
+
+
+LG Blazer  ;O)
